@@ -146,11 +146,14 @@ During initial setup, the Docker image push failed with a `401 Unauthorized` err
 ## Screenshots
 
 ### GitHub Actions Pipeline Success
-![GitHub Actions Success](screenshots/01-github-actions-success.png)
+![GitHub Actions Success](<img width="1920" height="1040" alt="Screenshot 2026-10-22 161326" src="https://github.com/user-attachments/assets/c169167e-2137-45ea-b933-fa1fa5497b08" />
+)
 
 ### Docker Hub Image
-![Docker Hub Image](screenshots/02-dockerhub-image.png)
+![Docker Hub Image](<img width="1920" height="1040" alt="Screenshot 2026-10-22 162343" src="https://github.com/user-attachments/assets/956fcbc2-afe1-40e9-80e0-c02d78289c41" />
+)
 
 ### Local Application Test
-![Local App Test](screenshots/03-local-app-test.png)
+![Local App Test](<img width="1482" height="162" alt="Screenshot 2026-10-22 150302" src="https://github.com/user-attachments/assets/e0746e8d-fb5d-4fb5-99d3-cbf5dc2eb3f0" />
+)
 
