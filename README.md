@@ -140,10 +140,7 @@ During initial setup, the Docker image push failed with a `401 Unauthorized` err
 
 - Add automated HTTP integration tests.
 - Add image version tags based on Git commits.
-- Add vulnerability scanning for container images.
-- Extend the workflow with a deployment stage.
-
-## Screenshots
+- Add vulnerability scanning for container images.## Screenshots
 
 ### 1. GitHub Actions Pipeline Success
 ![GitHub Actions Success](screenshots/01-github-actions-success.png)
@@ -153,9 +150,6 @@ During initial setup, the Docker image push failed with a `401 Unauthorized` err
 
 ### 3. Local Application Test
 ![Local Application Test](screenshots/03-local-app-test.png)
+- Extend the workflow with a deployment stage.
 
-
-### Local Application Test
-![Local App Test](<img width="1482" height="162" alt="Screenshot 2026-10-22 150302" src="https://github.com/user-attachments/assets/e0746e8d-fb5d-4fb5-99d3-cbf5dc2eb3f0" />
-)
 
