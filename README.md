@@ -143,3 +143,14 @@ During initial setup, the Docker image push failed with a `401 Unauthorized` err
 - Add vulnerability scanning for container images.
 - Extend the workflow with a deployment stage.
 
+## Screenshots
+
+### GitHub Actions Pipeline Success
+![GitHub Actions Success](screenshots/01-github-actions-success.png)
+
+### Docker Hub Image
+![Docker Hub Image](screenshots/02-dockerhub-image.png)
+
+### Local Application Test
+![Local App Test](screenshots/03-local-app-test.png)
+
